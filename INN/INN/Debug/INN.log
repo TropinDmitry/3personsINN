@@ -1,0 +1,8 @@
+﻿  MyForm.cpp
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\INN\INN\MyForm.cpp(55,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\INN\INN\MyForm.cpp(85,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\INN\INN\MyForm.cpp(436,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\INN\INN\MyForm.cpp(507,16): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\INN\INN\MyForm.cpp(544,8): warning C4101: right_res: неиспользованная локальная переменная
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  INN.vcxproj -> D:\I am Photoshop, it is a Programmer\Visual Studio\C++\INN\Debug\INN.exe

@@ -1,0 +1,3 @@
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\INN\INN\Debug\INN.MyForm.resources
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\INN\INN\Debug\INN.vcxproj.GenerateResource.cache
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\INN\INN\Debug\INN.vcxproj.AssemblyReference.cache
